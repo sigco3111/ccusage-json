@@ -61,6 +61,11 @@ const App: React.FC = () => {
         <p className="text-slate-400 mt-2">
           `ccusage` JSON 파일을 업로드하여 AI 모델 사용량과 비용을 시각화하세요.
         </p>
+        <div className="mt-4 p-4 bg-blue-900/30 border border-blue-700/50 rounded-lg">
+          <p className="text-blue-300 font-mono text-lg">
+            bunx ccusage daily --json &gt; daily_usage.json
+          </p>
+        </div>
       </header>
       
       <main className="w-full max-w-7xl flex-grow">

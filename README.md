@@ -3,7 +3,12 @@
 `ccusage` JSON 파일을 업로드하여 AI 모델 사용량 및 비용 데이터를 시각화하는 웹 애플리케이션입니다. 일일 동향, 모델별 비용 분포 등 다양한 관점에서 데이터를 분석할 수 있는 인터랙티브 대시보드를 제공합니다.
 
  
-*(스크린샷 이미지는 예시입니다)*
+- ccusage에서 json으로 일간데이터 출력
+bunx ccusage daily --json > daily_usage.json
+
+실행주소1 : https://ccusage-json.vercel.app/
+
+실행주소2 : https://dev-canvas-pi.vercel.app/
 
 ---
 
