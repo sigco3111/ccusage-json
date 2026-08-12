@@ -6,7 +6,7 @@
 - ccusage에서 json으로 일간데이터 출력
 bunx ccusage daily --json > daily_usage.json
 
-실행주소1 : https://ccusage-json.vercel.app/
+실행주소1 : https://sigco3111.github.io/ccusage-json/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
