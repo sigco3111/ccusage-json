@@ -6,9 +6,9 @@
 - ccusage에서 json으로 일간데이터 출력
 bunx ccusage daily --json > daily_usage.json
 
-실행주소1 : https://sigco3111.github.io/ccusage-json/
+라이브 데모 : https://sigco3111.github.io/ccusage-json/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/ccusage-json/)
 
 ---
 
